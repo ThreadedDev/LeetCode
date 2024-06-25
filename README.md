@@ -1,4 +1,5 @@
 # Challanges
-|Difficulty|Question|Solution Java|Solution C++|
-|-|-|-|-|
-|Easy|Two Sum|[Java](https://)|[C++](Https://)|
+|Nr|Difficulty|Question|Solution Java|Solution C++|
+|-|-|-|-|-|
+|1|Easy|Two Sum|[Java](https://)|[C++](Https://)|
+|
