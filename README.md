@@ -2,7 +2,7 @@
 |-|-|-|-|-|
 |1|Easy|Two Sum|[Java](https://)|[C++](Https://)|
 |2|Medium|
-|3|
+|3|M
 |4|
 |5|
 |6|
