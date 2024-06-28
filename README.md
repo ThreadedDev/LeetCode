@@ -1,5 +1,5 @@
 |#|Difficulty|Question|Solution C++|Solution Java|Solution Python|
-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |1|Easy|Two Sum|[C++](https://)|[Java](https://)|[Python](https://)|
 |2|Medium|
 |3|Medium|
